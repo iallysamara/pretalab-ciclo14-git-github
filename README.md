@@ -92,3 +92,4 @@ Apesar disso, aprendi que sempre preciso revisar o código sugerido antes de us�
 Esse módulo me deu uma base sólida para versionar meus projetos com Git e GitHub e trabalhar de forma colaborativa com outras pessoas, tanto em projetos pessoais como em projetos profissionais.  
 Agora consigo criar, gerenciar e atualizar repositórios, organizar meu trabalho com branches e até contribuir com projetos de terceiros usando forks.  
 Também passei a enxergar como o Copilot pode potencializar minha produtividade e aprendizado.
+Estou muito feliz com esses aprendizados!
